@@ -1,0 +1,153 @@
+C:\Anaconda3\python.exe "C:/Users/Janki/Desktop/Self study/Inferone-Coding/Main_File.py"
+Parking Lot with 10 parking spots created
+Available spots: 10
+=============================================================================================================
+New request received.
+Is there parking available?
+Yes, would you like to book a parking spot? (Y/N)
+y
+Yay! Your spot is booked. Your booking ID is: 33517
+Available spots: 9
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+Entry request received.
+I would like enter the parking area. My booking ID is: 33517
+Your booking is valid.
+A car entered with license number: XJH-7047
+Available spots: 9
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+Park request received.
+Vehicle with license plate number XJH-7047 parked at 8
+Available spots: 9
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'No'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+New request received.
+Is there parking available?
+Yes, would you like to book a parking spot? (Y/N)
+N
+We are sorry to see you go.
+Available spots: 9
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'No'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+Exit request received.
+I would like to end my booking
+A vehicle exited. Booking with Booking ID 33517 is completed
+{'Booking Time': datetime.datetime(2019, 2, 11, 20, 42, 15, 910415), 'Hold_Time': datetime.datetime(2019, 2, 11, 20, 52, 15, 910415), 'booking_Status': 'Vehicle left the premise', 'entry_Time': datetime.datetime(2019, 2, 11, 20, 42, 15, 910415), 'car_Licence_Plate_Number': 'XJH-7047', 'parked_Spot_ID': 8, 'exit_Time': datetime.datetime(2019, 2, 11, 20, 42, 15, 910415)}
+Spot empty: 8
+Available spots: 10
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+New request received.
+Is there parking available?
+Yes, would you like to book a parking spot? (Y/N)
+y
+Yay! Your spot is booked. Your booking ID is: 93117
+Available spots: 9
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+New request received.
+Is there parking available?
+Yes, would you like to book a parking spot? (Y/N)
+Y
+Yay! Your spot is booked. Your booking ID is: 20319
+Available spots: 8
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+New request received.
+Is there parking available?
+Yes, would you like to book a parking spot? (Y/N)
+y
+Yay! Your spot is booked. Your booking ID is: 42674
+Available spots: 7
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+Entry request received.
+I would like enter the parking area. My booking ID is: 93117
+Your booking is valid.
+A car entered with license number: YOE-6745
+Available spots: 7
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+Exit request received.
+I would like to end my booking
+A vehicle exited. Booking with Booking ID 93117 is completed
+{'Booking Time': datetime.datetime(2019, 2, 11, 20, 42, 15, 910415), 'Hold_Time': datetime.datetime(2019, 2, 11, 20, 52, 15, 910415), 'booking_Status': 'Vehicle left the premise', 'entry_Time': datetime.datetime(2019, 2, 11, 20, 42, 15, 917661), 'car_Licence_Plate_Number': 'YOE-6745', 'exit_Time': datetime.datetime(2019, 2, 11, 20, 42, 15, 917661)}
+Available spots: 8
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+New request received.
+Is there parking available?
+Yes, would you like to book a parking spot? (Y/N)
+Y
+Yay! Your spot is booked. Your booking ID is: 21257
+Available spots: 7
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+Entry request received.
+I would like enter the parking area. My booking ID is: 42674
+Your booking is valid.
+A car entered with license number: EYV-0903
+Available spots: 7
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+Park request received.
+Vehicle with license plate number EYV-0903 parked at 6
+Available spots: 7
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'No'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+New request received.
+Is there parking available?
+Yes, would you like to book a parking spot? (Y/N)
+N
+We are sorry to see you go.
+Available spots: 7
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'No'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+New request received.
+Is there parking available?
+Yes, would you like to book a parking spot? (Y/N)
+n
+We are sorry to see you go.
+Available spots: 7
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'No'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+New request received.
+Is there parking available?
+Yes, would you like to book a parking spot? (Y/N)
+N
+We are sorry to see you go.
+Available spots: 7
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'No'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+Exit request received.
+I would like to end my booking
+A vehicle exited. Booking with Booking ID 42674 is completed
+{'Booking Time': datetime.datetime(2019, 2, 11, 20, 42, 15, 917661), 'Hold_Time': datetime.datetime(2019, 2, 11, 20, 52, 15, 917661), 'booking_Status': 'Vehicle left the premise', 'entry_Time': datetime.datetime(2019, 2, 11, 20, 42, 15, 918021), 'car_Licence_Plate_Number': 'EYV-0903', 'parked_Spot_ID': 6, 'exit_Time': datetime.datetime(2019, 2, 11, 20, 42, 15, 918792)}
+Spot empty: 6
+Available spots: 8
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+Entry request received.
+I would like enter the parking area. My booking ID is: 20319
+Your booking is valid.
+A car entered with license number: PPS-6559
+Available spots: 8
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+New request received.
+Is there parking available?
+Yes, would you like to book a parking spot? (Y/N)
+n
+We are sorry to see you go.
+Available spots: 8
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+=============================================================================================================
+Exit request received.
+I would like to end my booking
+A vehicle exited. Booking with Booking ID 20319 is completed
+{'Booking Time': datetime.datetime(2019, 2, 11, 20, 42, 15, 910415), 'Hold_Time': datetime.datetime(2019, 2, 11, 20, 52, 15, 910415), 'booking_Status': 'Vehicle left the premise', 'entry_Time': datetime.datetime(2019, 2, 11, 20, 42, 15, 918792), 'car_Licence_Plate_Number': 'PPS-6559', 'exit_Time': datetime.datetime(2019, 2, 11, 20, 42, 15, 918792)}
+Available spots: 9
+{1: {'Available': 'Yes'}, 2: {'Available': 'Yes'}, 3: {'Available': 'Yes'}, 4: {'Available': 'Yes'}, 5: {'Available': 'Yes'}, 6: {'Available': 'Yes'}, 7: {'Available': 'Yes'}, 8: {'Available': 'Yes'}, 9: {'Available': 'Yes'}, 10: {'Available': 'Yes'}}
+
+Process finished with exit code 0
